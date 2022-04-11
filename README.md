@@ -1,3 +1,3 @@
 # Tugas7_MuhammadAliMusthofa
 
-![img 1](Gambar Design Aplikasi Di Pencil Project/1.jpg)
+![img 1](designkalkulator/1.jpg)
